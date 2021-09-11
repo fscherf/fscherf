@@ -12,3 +12,4 @@ a simple and easy to use Python REPL that can run over Network.
 
 * reddit: [u/ki3selerde](https://www.reddit.com/user/ki3selerde)
 * twitter: [@kiesel3rde](https://twitter.com/kiesel3rde)
+* email: [f.scherf@pengutronix.de](mailto:f.scherf@pengutronix.de)
